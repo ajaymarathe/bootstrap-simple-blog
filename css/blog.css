@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body {
+  font-family: "Poppins", sans-serif;
+}
+.main-section .card {
+  margin-bottom: 1.5rem !important;
+}
+.footer-section {
+  background: #E8CBC0;
+  background: linear-gradient(to right, #636FA4, #E8CBC0);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.comment-section span {
+  display: block;
+  margin-bottom: 10px;
+}
+
