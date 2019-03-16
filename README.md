@@ -14,7 +14,7 @@ hope this will help you.
 
 ## Clone the Repository -
 
-` https://github.com/ajaymarathe/bootstrap-simple-blog.git  `
+`git clone https://github.com/ajaymarathe/bootstrap-simple-blog.git  `
 
 ## Copyright and License
 
