@@ -16,6 +16,13 @@ hope this will help you.
 
 `git clone https://github.com/ajaymarathe/bootstrap-simple-blog.git  `
 
+## Author
+
+Ajay Marathe
+
++ https://github.com/ajaymarathe
++ http://bootcatch.com
+
 ## Copyright and License
 
 Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/bootstrap-simple-blog/blob/master/LICENSE) license.
