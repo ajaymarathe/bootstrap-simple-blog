@@ -3,6 +3,8 @@ Bootstrap-Simple-Blog is a basic blogging template based on bootstrap for bootst
 
 [![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
 
+[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog-post.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
+
 
 ## About
 
