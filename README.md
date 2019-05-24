@@ -1,8 +1,10 @@
 # bootstrap-simple-blog
 Bootstrap-Simple-Blog is a basic blogging template based on bootstrap for bootstrap lover's - created by Bootcatch team.
 
+### first-shot
 [![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
 
+### second shot
 [![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog-post.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
 
 
