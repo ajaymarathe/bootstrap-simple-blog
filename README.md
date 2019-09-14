@@ -2,17 +2,17 @@
 Bootstrap-Simple-Blog is a basic blogging template based on bootstrap for bootstrap lover's - created by Bootcatch team.
 
 ### first-shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
+[![bootstrap simple blog](https://raw.githubusercontent.com/ajaymarathe/bootstrap-simple-blog/master/img/blog.png)](https://ajaymarathe.github.io/bootstrap-simple-blog/blog.html)
 
 ### second shot
-[![bootstrap simple blog](http://preview.bootcatch.com/bootstrap-simple-blog/img/blog-post.png)](http://preview.bootcatch.com/bootstrap-simple-blog/)
+[![bootstrap simple blog](https://raw.githubusercontent.com/ajaymarathe/bootstrap-simple-blog/master/img/blog-post.png)](https://ajaymarathe.github.io/bootstrap-simple-blog/blog-post.html)
 
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-simple-blog/
+* https://ajaymarathe.github.io/bootstrap-simple-blog/blog.html
 * http://bootcatch.com
 
 ## Usage
